@@ -5,6 +5,7 @@ public class lesson{
 		double a = 4.5;
 		double b = 7.9;
 		System.out.println(a*b);
+		System.out.println(a+b);
 	}
 }
 
